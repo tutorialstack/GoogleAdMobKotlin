@@ -79,4 +79,7 @@ Add above code in activity.
 
 <a href="http://tutorialstack.in/google-banner-ads-kotlin-admob" target="_blank" rel="noopener"><strong>Implement Banner Ads Kotlin</strong></a>
 
+<a href="https://tutorialstack.in/google-banner-interstitial-rewardedvideo-ads-kotlin" target="_blank" rel="noopener"><strong>Interstitial and RewardedVideo Ads Kotlin</strong></a>
+
+
 
